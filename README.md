@@ -1,1 +1,27 @@
-# Lane-Detection-for-Autonomous-Vehicles
+# Lane Detection for Autonomous Vehicles
+
+This project implements a basic lane detection pipeline using OpenCV for autonomous driving applications. It processes video input, detects road lane lines, and overlays them on the frames.
+
+## 🚗 Features
+- Canny Edge Detection
+- Region of Interest (ROI) masking
+- Hough Transform to detect lines
+- Overlaying detected lane lines on the original video
+- Real-time video frame processing
+
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/your-username/Lane_Detection_for_Autonomous_Vehicles.git
+cd Lane_Detection_for_Autonomous_Vehicles
+pip install -r requirements.txt
+```
+
+## ▶️ Usage
+python main.py
+
+## 📦 Requirements
+OpenCV
+
+NumPy
