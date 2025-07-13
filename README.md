@@ -25,3 +25,9 @@ python main.py
 OpenCV
 
 NumPy
+
+## 📽️ Demo Video
+
+🎥 [Click here to watch the demo](https://github.com/adityasingh-0803/Lane-Detection-for-Autonomous-Vehicles/raw/main/recording.mp4)
+
+📥 You can also [download recording.mp4](https://github.com/adityasingh-0803/Lane-Detection-for-Autonomous-Vehicles/raw/main/recording.mp4)
